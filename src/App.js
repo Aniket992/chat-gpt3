@@ -10,6 +10,7 @@ function App() {
       </div>
       <Brand/>
       <WhatGPT3/>
+      <Article/>
       <Feature/>
       <Posibility/>
       <Cta/>
